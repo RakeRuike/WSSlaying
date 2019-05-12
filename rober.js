@@ -13,7 +13,7 @@ function send_it(message)
 			content: message, 
 			bold: 0, italic: 0, 
 			underline: 0, 										
-			high: 'yellow;" ></span>  <style="', color: 'rgba(50,50,50,1)', target: 'shiime'},
+			high: 'yellow;" ></span>  <style="', color: 'rgba(50,50,50,1)', target: 'santaa'},
 			success: function(result){
 				
 			}    
